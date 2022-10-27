@@ -130,9 +130,9 @@ sfcor
 
 ##### Detection #####
 ## get estimates of occupancy and detection
-occ = predict(s.02, type = "psi")
-occ[1,]
-occ
+#occ = predict(s.02, type = "psi")
+#occ[1,]
+#occ
 
 #Null model(ie, no covariates)
 p.01 = colext(~1, ~1, ~1, ~1, cd)
