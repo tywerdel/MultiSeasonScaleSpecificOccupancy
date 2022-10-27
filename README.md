@@ -7,4 +7,10 @@ limiting constraints on the distribution of swift fox. Landscape Ecology, 37(8),
 
 [SwiftFoxMultiOccScaled.R](https://github.com/tywerdel/MultiSeasonScaleSpecificOccupancy/blob/main/SwiftFoxMultiOccScaled.R) includes R code to estimate multi-season occupancy, colonization, and extinction. It uses camera trap survey data of swift fox in [SwiftFoxMultiOcc.csv](https://github.com/tywerdel/MultiSeasonScaleSpecificOccupancy/blob/main/SwiftFoxMultiOcc.csv).
 
-**Still need to add code for creating Gaussian Kernel and landscapemetrics
+**Still need to add these codes for creating Gaussian Kernel, data management, and landscapemetrics
+**BindMultipleCSVs
+**DetectionPlot
+**DistanceScaleGraphs
+**GraphsNotSure
+**WeightedAvgTripleLoop
+**TJWOccupancyModelsForScaling
